@@ -3,7 +3,7 @@
 send a text message to someone updating your ETA (by getting the traffic time between 2 locations in google maps)
 
 RUN:
-	0. You need iMessage (MaxOS) and Python! 
+	0. You need iMessage (MacOS) and Python! 
   1. xcode-select --install
   2. pip install --user pync (or sudo pip install pync)
   3. pip install --user googlemaps (or sudo pip install googlemaps)
