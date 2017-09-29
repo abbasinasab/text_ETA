@@ -13,7 +13,7 @@ GOOGLEMAPS_API_KEY = ''
 TARGET_PHONE_NUMBER = ''
 FROM_ADDRESS = '1 Infinite Loop, Cupertino, CA 95014' #my current location
 TO_ADDRESS = '20807 Stevens Creek Blvd, Cupertino, CA 95014' #place to meet
-GOOGLE_MAPS_LINK = 'https://www.google.com/maps/dir/Millennium+Park,+Chicago,+IL/Willis+Tower+Skydeck,+South+Wacker+Drive,+Chicago,+IL/@41.8831931,-87.6326005,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x880e2ca70b00f081:0xcbf62372ee30a12b!2m2!1d-87.6193938!2d41.8827024!1m5!1m1!1s0x880e2cbf1d3c61a7:0xcee917a8ddbc62f1!2m2!1d-87.635915!2d41.8788761'
+GOOGLE_MAPS_LINK = 'https://www.google.com/maps/dir/1+Infinite+Loop,+Cupertino,+CA+95014/Peeti\'s+Coffee,+Stevens+Creek+Blvd,+Cupertino,+CA/@37.3273339,-122.0386235,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x808fb5b6c454b237:0x8c2e9bd251b5e9ef!2m2!1d-122.0302058!2d37.3315103!1m5!1m1!1s0x808fb5ad5465805d:0x3627cf6d3d90819d!2m2!1d-122.038265!2d37.323205'
 
 from datetime import datetime
 import googlemaps
